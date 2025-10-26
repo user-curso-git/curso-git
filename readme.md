@@ -12,4 +12,6 @@ Outra modificação
 # teste.py
 
 ### arquivo python
-Este arquivo é o inicio de um programa.
+Este arquivo é o inicio de um programa.~
+
+Nova alteração
