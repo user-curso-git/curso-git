@@ -13,3 +13,10 @@ Este arquivo é o inicio de um programa.
 # Ideia do projeto
 
 - Criar um codigo que simula uma *calculadora* com as 4 principais funções.
+
+As principais funções seram: 
+
+- Soma
+- Subtração
+- Divisão
+- Multplicação
