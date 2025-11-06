@@ -20,3 +20,5 @@ As principais funções seram:
 - Subtração
 - Divisão
 - Multplicação
+
+Este sera um projeto focado no desenvolvimento do conhecimento de GIT
